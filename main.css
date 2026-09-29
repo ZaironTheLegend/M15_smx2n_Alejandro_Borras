@@ -1,0 +1,45 @@
+body {
+  background-color: rgba(73, 49, 105, 0.911);
+}
+
+body {
+  font-family: "Sofia", sans-serif;
+}
+
+body {
+  color: rgb(0, 162, 177);
+}
+
+h1 {
+  color: rgb(0, 251, 255);
+}
+
+h2 {
+  color: rgb(0, 194, 191);
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 {
+  text-shadow: 2px 2px rgba(74, 0, 111, 0.742);
+}
+
+h2 {
+  text-shadow: 2px 2px rgba(74, 0, 111, 0.742);
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+li {
+  color: rgb(2, 156, 251);
+  padding: 10px;
+}
+
